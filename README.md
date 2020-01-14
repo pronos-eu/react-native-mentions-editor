@@ -159,6 +159,10 @@ editorStyles: {
 
 Check out the full example in  [example](https://github.com/mrazadar/react-native-mentions-editor/tree/master/example) folder
 
+
+## Changed in fork
+
+
 ## License
 
 [MIT License](http://opensource.org/licenses/mit-license.html). © Muhammad Raza Dar
